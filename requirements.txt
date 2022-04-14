@@ -30,7 +30,7 @@ MarkupSafe==2.1.1
 matplotlib==3.5.1
 numpy==1.22.3
 oauthlib==3.2.0
-object-detection==0.1 0.1
+object-detection==0.1
 opencv-python==4.5.5.64
 opt-einsum==3.3.0
 packaging==21.3
