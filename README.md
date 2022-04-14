@@ -8,7 +8,7 @@
 ## Installation
 
 - Configure interpreter for python 3.9.12
-- Setup virtual environment using the requirements.txt file
+- Setup virtual environment using the command "pip install -r requirements.txt"
 
 ## Usage
 
