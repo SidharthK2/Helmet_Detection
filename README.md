@@ -2,7 +2,6 @@
 
 - Helmet **detection** using **TensorFlow Object Detection**
 - **SSD MobileNet V2 FPNLite** to make inferences
-- Currently works with **.jpg** files only 
 - Live web app deployed on **Heroku**  
 
 ## Installation
