@@ -2,6 +2,7 @@
 
 - Helmet **detection** using **TensorFlow Object Detection**
 - **SSD MobileNet V2 FPNLite** to make inferences
+- API exposed using Flask
 - Live web app deployed on **Heroku**  
 
 ## Installation
