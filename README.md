@@ -9,6 +9,7 @@
 
 - Configure interpreter for python 3.9.12
 - Setup virtual environment using the command "pip install -r requirements.txt"
+- Microsoft Visual C++ 14 or greater build tools required https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
 ## Usage
 
