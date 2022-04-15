@@ -7,10 +7,10 @@
 
 ## Installation
 
+- Follow the TFOD installation guide https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html#
 - Configure interpreter for python 3.9.12
 - Setup virtual environment using the command "pip install -r requirements.txt"
-- Microsoft Visual C++ 14 or greater build tools required https://visualstudio.microsoft.com/visual-cpp-build-tools/
-- CUDA toolkit and cuDNN also required
+- 
 
 ## Usage
 
