@@ -7,7 +7,6 @@
 
 ## Installation
 
-- Follow the TFOD installation guide https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/install.html#
 - Configure interpreter for python 3.9.12
 - Setup virtual environment using the command "pip install -r requirements.txt"
 
