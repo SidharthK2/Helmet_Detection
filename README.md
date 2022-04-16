@@ -7,6 +7,7 @@
 
 ## Installation
 
+- visual C++ build tools needed. Download here https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16#cplusplus
 - Configure interpreter for python 3.9.12
 - Setup virtual environment using the command "pip install -r requirements.txt"
 
